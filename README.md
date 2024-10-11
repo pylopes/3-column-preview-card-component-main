@@ -10,7 +10,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
-- Live Site URL: [FAQ accordion]()
+- Live Site URL: [3-column preview card component](https://pylopes.github.io/3-column-preview-card-component-main/)
 
 ### Built with
 
